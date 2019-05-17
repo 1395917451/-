@@ -10,7 +10,8 @@
     flex-flow: row nowrap;
     justify-content: flex-start;
     align-items: stretch;
-    min-width: calc(100vh - 334px);
+    width: 100%;
+    min-height: calc(100vh - 334px);
     .mianLeft {
       flex: 0 0 223px;
       width: 223px;
