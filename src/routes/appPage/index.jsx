@@ -11,7 +11,7 @@ export default class Index extends React.Component {
 
   render() {
     return (
-      <div>
+      <div style={{ width: '1697px', height: '100%' }}>
         <Route exact path="/" component={HomePage} />
         <Route exact path="/aboutUs" component={AboutUsPage} />
         <Route exact path="/services" component={ServicesPage} />

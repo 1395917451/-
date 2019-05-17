@@ -1,4 +1,5 @@
 import * as React from 'react'
+import '@/scss/aboutUs.scss'
 
 export default class AboutUs extends React.Component {
   constructor(props) {
